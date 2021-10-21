@@ -1,5 +1,5 @@
 # rtpstreams
-Extracts the summary of RTP streams from pcap files.
+Extracts the summary of RTP streams from pcap files in additions to RFC2833 events, Maxskew and DSCP values.
 
 ## Example
 ```
